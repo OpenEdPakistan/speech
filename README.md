@@ -2,7 +2,7 @@
 ## Why?
 _**Custom Development:**_ Developers typically write a Windows Forms or Console Application using C# to call the Microsoft Cognitive Services Speech API to generate audio utterances for their applications; refer to code in the _'Samples-Http'_ folder [here](https://github.com/Microsoft/Cognitive-Speech-TTS).
 ## What?
-_**No Code:**_ The approach used by OPEN (Open Pakistan Education Network) and illustrated visually below, uses a no-code approach offered by the Speech Studio portal to create audio content for its knowledge content, so that Pakistani learners can get a clear Neural voice and not a robot-sounding voice in their courses.
+_**No Code:**_ The approach used by OPEN (Open Pakistan Education Network) and illustrated visually below, uses a no-code approach offered by the Speech Studio web site to create audio content for its knowledge content, so that Pakistani learners can get a clear Neural voice and not a robot-sounding voice in their courses.
 
 ![OPEN Workflow](files/OPEN-Workflow.png)
 ## How?
