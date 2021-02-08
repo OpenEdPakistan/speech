@@ -1,0 +1,6 @@
+Welcome to Open Pakistan Education Network.
+Computer Programming Terms and Concepts. 
+There are a lot of Computer Programming terms explained in this presentation.
+A software engineer or programmer uses his or her computer to type some instructions.
+These instructions are called programming or coding.
+The instructions are in a programming language. Examples of programming languages include C#, Python, JavaScript, C++, or Java.
