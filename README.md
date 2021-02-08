@@ -8,4 +8,4 @@ _**No Code:**_ The approach used by OPEN (Open Pakistan Education Network) and i
 *The steps assume that you have public access to a Microsoft cloud subscription using the Azure Portal.*
 1. Go to the [Speech Studio](http://speech.microsoft.com) and log in.
 1. On the _'Audio Content Creation'_ page, click the _'Upload'_ button, select the text file (by clicking the _'Browse files...'_ button on the _'Upload file'_ dialog, navigating to the local .txt file, selecting it), check the _'Split input script...'_ checkbox, and click _'Next'_.
-1. 
+1. On the _'Split files'_ dialog, select the _'By paragraphs'_ radio-button, and click _'Upload'_.
