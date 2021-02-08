@@ -12,7 +12,7 @@ _**No Code:**_ The approach used by OPEN (Open Pakistan Education Network) and i
 1. On the _'Split files'_ dialog, select the _'By paragraphs'_ radio-button, and click _'Upload'_. You can view the uploaded text file [here](files/input.txt).
 1. Click the _'input - 1'_ link.
 ![Speech Studio](files/SS-Inputs.png)
-*The 'Audio Content Creation'* page will appear.*
+*The 'Audio Content Creation'* page will appear.
 1. Select a voice of your choice (Neural voices are represened by an 'N' in the icon). For this demo, I have selected _'Jenny'_.
 1. Select a _'Speaking style'_ from the options in drop-down list; either _'Assistant'_, _'Chat'_, _'Customer Service'_. _'Newscast'_, or _'Default'_.
 ![Speech Studio](files/SS-EditAudio.png)
