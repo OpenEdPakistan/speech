@@ -8,6 +8,7 @@
 <p align="right">
 بغیر کوڈ: اوپن پاکستان ایجوکیشن نیٹ ورک ذیل میں دی گئی بصری صورت ایک بغیر کوڈ کے عمل کو بروئے کار لاتا ہے جس میں سپیچ اسٹوڈیو ویب سائٹ کے ذریعہ علمی مواد کے لئے  آواز تخلیق کرسکیں تاکہ پاکستانی سیکھنے والوں کو ایک واضح آواز مل سکے نہ کہ ان کے نصاب میں روبوٹ کی آواز۔ 
 </p>
+<a target="_blank" rel="noopener noreferrer" href="/OpenEdPakistan/speech/blob/main/files/OPEN-Workflow.png"><img src="/OpenEdPakistan/speech/raw/main/files/OPEN-Workflow.png" alt="OPEN Workflow" style="max-width:100%;"></a>
 <h2 align="right">کیسے؟</h2>
 <p align="right">
 
